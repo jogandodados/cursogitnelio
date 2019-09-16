@@ -1,0 +1,11 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\bin\Debug\netcoreapp2.1\testegit.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\cursos\csharp\testegit\testegit\obj\Debug\netcoreapp2.1\testegit.pdb
