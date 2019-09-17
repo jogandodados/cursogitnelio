@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\testegit\\testegit\\testegit.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\cursogitnelio\\testegit\\testegit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\testegit\\testegit\\testegit.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\cursogitnelio\\testegit\\testegit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\testegit\\testegit\\testegit.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\cursogitnelio\\testegit\\testegit.csproj",
         "projectName": "testegit",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\testegit\\testegit\\testegit.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\cursogitnelio\\testegit\\testegit.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\testegit\\testegit\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\cursos\\csharp\\cursogitnelio\\testegit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
